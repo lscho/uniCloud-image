@@ -13,7 +13,7 @@
 
 2.使用 HBuilderX 导入项目文件
 
-3.选中 uniCloud 目录创建云服务控件并关联
+3.选中 uniCloud 目录创建云服务空间并关联
 
 4.发行为H5并部署到 uniCloud 云服务空间
 
